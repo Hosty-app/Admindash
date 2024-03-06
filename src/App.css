@@ -1,0 +1,61 @@
+.App{
+  background-image: url(https://assets-global.website-files.com/630c89e33df16d6893e94a91/630d3264fe029cced0c98006_HeroBG.svg);
+  background-size: 50vh;
+  background-position: 50%;
+  background-size: contain;
+  height: 30em;
+}
+.App nav{
+  background: #0404;
+  height: 4em;
+  display: flex;
+  flex-direction: row;
+
+}
+
+p{
+  border: 2px solid orange;
+  border-radius: 8px;
+ height: 2em;
+ width: 12em;
+ text-align: center;
+ color: orange;
+ font-weight: bold;
+}
+
+p:hover{
+background: #0404;
+color: black;
+
+}
+
+.middle{
+  display: flex;
+  justify-content: space-around;
+ 
+}
+
+.content{
+  border: 3px solid orange;
+  border-radius: 15px;
+  margin: auto;
+  width: 80%;
+  height: 28em;
+  background: white;
+  display: flex;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.linechart{
+  margin: auto;
+}
