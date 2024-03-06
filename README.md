@@ -2,12 +2,14 @@
 
 ## First install node from official website
 
+## `open terminal`
+
 ## cd Admindash
 
-## 'npm install'
+##  Run : 'npm install'
 This is done to install all the necessary dependencies i used in the application
 
-## `npm start`
+## Run: `npm start`
 It's done to start the application and the app will open by default in the default browswer
 
 ## Design Decisions
