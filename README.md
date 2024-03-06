@@ -4,9 +4,9 @@
 
 ## `open terminal`
 
-## cd Admindash
+## Run: `cd Admindash`
 
-##  Run : 'npm install'
+## Run: `npm install`
 This is done to install all the necessary dependencies i used in the application
 
 ## Run: `npm start`
