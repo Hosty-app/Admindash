@@ -3,6 +3,6 @@
 
 ## First install node from official website
 
-## 'cd Admindash'
+## cd Admindash
 
 ## `npm start`
